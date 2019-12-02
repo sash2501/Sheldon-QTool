@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="shapes">
+    <file>CsLOT.jpg</file>
+    <file>newrect.jpg</file>
+    <file>Circle.jpg</file>
+    <file>triangle.jpg</file>
+    <file>square.jpg</file>
+    <file>rectangle.jpg</file>
+    <file>DIVIDED CSECTION.jpg</file>
+  </qresource>
+</RCC>
