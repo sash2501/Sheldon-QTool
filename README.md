@@ -56,3 +56,11 @@ The Moment of Inertia of the following shapes can be calculated:
 
 <img src = "/ui_ss/MOI.png">
 
+### Centroid
+![centroid](/ui_ss/centroidshow.gif)
+
+### Moment of Inertia
+![moment of inertia](/ui_ss/moishow.gif)
+
+### Entering Coordinates
+![enter](/ui_ss/centroid.gif)
