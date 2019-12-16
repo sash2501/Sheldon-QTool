@@ -73,9 +73,9 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>90</x>
+      <x>80</x>
       <y>-10</y>
-      <width>201</width>
+      <width>221</width>
       <height>61</height>
      </rect>
     </property>
@@ -87,7 +87,7 @@
      </font>
     </property>
     <property name="text">
-     <string>MechQ Tool</string>
+     <string>Sheldon QTool</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignCenter</set>

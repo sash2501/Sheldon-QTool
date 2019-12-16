@@ -23,7 +23,7 @@ void Centroid::on_centroid_c_secn_clicked()
 
 void Centroid::on_centroid_rect_clicked()
 {
-    centroid_rect = new Centroid_rect(this);
+    centroid_rect = new Centoid_rect(this);
     centroid_rect->show();
 }
 
